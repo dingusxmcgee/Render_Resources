@@ -11,5 +11,6 @@ Alpha9 - Southpaw version of the alpha9(alpha 28 key with a 9key numpad)
 JerKey - Prime_E/Alice style 30% with wristrest - Created to fit the Jerkin PCB by Worldspawn.
 
 
-If you use these files, please give credit to me, the creator as "dingusxmcgee_ / hOnK"
-Thank you :)
+If you use these files, please give credit to me, the creator as "dingusxmcgee_ / hOnK"  
+Any questions, you can reach me on discord at dingusxmcgee_#1691  
+Thank you :)  
