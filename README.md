@@ -12,9 +12,7 @@ JerKey - Prime_E/Alice style 30% with wristrest - Created to fit the Jerkin PCB 
 
 
 If you use these files, please give credit to me, the creator as "dingusxmcgee_ / hOnK"  
-<<<<<<< HEAD
+
 Any questions, you can reach me on discord at dingusxmcgee_#1691  
-Thank you :)  
-=======
+
 Thank you :)
->>>>>>> 93496217a73d1feffba65d74e869e3ddf9c13555
